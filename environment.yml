@@ -44,7 +44,3 @@ dependencies:
     - lime
     - mlxtend
     - imbalanced-learn
-    - category_encoders
-    - feature_engine
-    - featuretools
-    - mlflow-lightgbm
