@@ -1,343 +1,61 @@
-"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","1","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3420,2654,4407
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","3","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2115,1536,2912
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","5","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1906,1290,2815
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","6","Athi River Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2830,2052,3901
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","7","Jirongo Flats","1/10/2017 - 1/12/2017, Every day, Daily Average",2478,1585,3874
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","9","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2433,1756,3370
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","11","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2377,1627,3471
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","12","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3134,2253,4359
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","13","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",2733,1770,4219
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","14","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2740,1857,4041
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","15","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2545,1738,3724
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","16","Silanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1884,1230,2884
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","17","Ole Kasasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3324,2285,4835
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","19","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1858,1283,2688
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","20","Icipe Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1297,788,2133
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","21","Carpenter's Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",2707,1837,3987
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","22","Kiroe Chunga Mali Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2435,1852,3201
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","23","Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1577,1047,2373
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","24","Ndege Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2321,1583,3401
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","25","1000 Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2092,1347,3247
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","26","Arena Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1104,677,1798
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","27","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2182,1342,3546
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","28","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2873,1825,4522
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","29","Mayor Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2161,1390,3358
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","30","Kerwa","1/10/2017 - 1/12/2017, Every day, Daily Average",2316,1721,3116
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","32","Hospital Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2849,1875,4328
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","33","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1549,1035,2318
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","34","Neema Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3701,2594,5280
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","35","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3562,2430,5221
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","36","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1063,685,1647
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","37","Riflo Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",1397,868,2248
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","39","Kiambia-Gathanga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1823,1180,2816
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","40","Stage Mpya","1/10/2017 - 1/12/2017, Every day, Daily Average",1911,1136,3214
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","41","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3118,1817,5349
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","42","Eastern By Pass","1/10/2017 - 1/12/2017, Every day, Daily Average",2671,1638,4354
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","44","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2493,1569,3960
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","46","Magoko Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3365,2564,4415
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","47","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2435,1783,3323
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","48","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",620,349,1099
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","49","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",1772,1086,2890
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","51","First Freight Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1542,964,2464
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","52","300 Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2409,1575,3684
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","53","Bamburi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2982,1996,4454
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","54","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2602,1893,3576
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","56","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1643,992,2718
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","57","Getathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1587,1051,2395
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","58","Hekima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2142,1438,3190
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","59","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",746,433,1283
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","60","Mutungoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3099,2195,4374
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","61","Kinanda Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1705,1154,2517
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","62","Lucky Twin Plaza Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1837,1237,2726
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","63","Murishu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1885,1260,2818
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","64","Nziu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1191,687,2063
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","TRM Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1187,737,1910
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","66","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1715,1006,2923
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","67","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1807,1151,2836
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","68","Millenium Krishna","1/10/2017 - 1/12/2017, Every day, Daily Average",1220,758,1963
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","69","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",823,421,1607
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","70","Mbagathi Way","1/10/2017 - 1/12/2017, Every day, Daily Average",1040,554,1948
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","71","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2350,1620,3408
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","72","Biashara St","1/10/2017 - 1/12/2017, Every day, Daily Average",1805,1268,2568
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","73","Beijing Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1884,1213,2925
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","76","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2947,1985,4373
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","77","Argwings Kodhek Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1088,640,1847
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","78","ARGWINGS KODHEK APPARTMENTS","1/10/2017 - 1/12/2017, Every day, Daily Average",1403,878,2239
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","79","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2046,1282,3263
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","80","Kihingo","1/10/2017 - 1/12/2017, Every day, Daily Average",2035,1444,2866
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","81","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2131,1400,3243
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","82","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1471,908,2380
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","83","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1725,1180,2520
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","86","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2046,1188,3522
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","87","Church Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1867,1266,2752
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","88","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1666,1001,2770
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","90","0 General Mathenge Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1068,625,1824
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","91","Irungu Riika Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",361,138,941
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","93","Mukinduri Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2162,1291,3619
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","94","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1864,1174,2957
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","95","Adminstration Block","1/10/2017 - 1/12/2017, Every day, Daily Average",905,476,1720
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","96","Grevillea Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1172,650,2111
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","97","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",3074,2332,4051
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","98","Tembo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2134,1459,3119
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","99","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2326,1478,3659
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","101","Fifth Avenue","1/10/2017 - 1/12/2017, Every day, Daily Average",2921,1975,4320
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","102","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1343,880,2048
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","103","Syokimau - Katani Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1857,1156,2981
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","104","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2823,1915,4160
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","105","Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2604,1863,3637
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","106","Rhino Park Close","1/10/2017 - 1/12/2017, Every day, Daily Average",2922,1876,4550
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","107","Kabarnet Gardens","1/10/2017 - 1/12/2017, Every day, Daily Average",1078,604,1922
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","108","Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1976,1327,2940
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","110","0 Waiyaki Way","1/10/2017 - 1/12/2017, Every day, Daily Average",975,552,1720
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","112","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1058,646,1732
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","113","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1696,1135,2533
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","114","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1943,1288,2930
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","115","Syokimau Airport Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2406,1579,3664
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","116","Kayole Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2374,1567,3596
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","117","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2523,1691,3762
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","119","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2254,1540,3297
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","120","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3081,2074,4576
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","121","Kibichiko Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1874,1271,2761
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","123","Muigai Kenyatta Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2353,1614,3429
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","124","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2183,1447,3292
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","125","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3244,2366,4445
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","126","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3257,2137,4962
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","127","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1672,1118,2499
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","128","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1739,1094,2762
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","129","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2743,1586,4741
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","130","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1404,800,2461
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","131","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3200,2208,4636
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","132","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2355,1528,3627
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","133","P.O. Box 41185","1/10/2017 - 1/12/2017, Every day, Daily Average",792,381,1646
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","135","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2346,1593,3454
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","136","900 Edina Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",2792,1820,4282
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","137","Thika - Mang'u Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2826,2160,3697
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","138","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1712,1116,2625
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","139","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1419,900,2235
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","140","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2011,1396,2896
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","141","Loiyangalani Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1573,1005,2459
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","142","Brookside Grove","1/10/2017 - 1/12/2017, Every day, Daily Average",799,434,1468
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","143","Olkeri Laiser Hill Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2990,1976,4522
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","144","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2646,1792,3906
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","145","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1963,1274,3023
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","146","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2920,1880,4534
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","147","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2577,1952,3400
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","148","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2985,2040,4366
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","150","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2399,1616,3561
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","151","0 Riverside Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",639,309,1320
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","152","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2508,1782,3528
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","153","0 Bendera Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1286,818,2019
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","154","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1848,1217,2805
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","155","C65","1/10/2017 - 1/12/2017, Every day, Daily Average",1929,1321,2815
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","157","0 Spring Valley Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1197,732,1957
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","158","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1536,973,2423
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","159","Zada Flat","1/10/2017 - 1/12/2017, Every day, Daily Average",2265,1518,3378
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","161","clay city masournets","1/10/2017 - 1/12/2017, Every day, Daily Average",1390,859,2248
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","162","Nderi K.A.R.I. Nrb Rd.","1/10/2017 - 1/12/2017, Every day, Daily Average",1939,1557,2414
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","164","Mumbi Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1558,952,2549
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","165","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",2592,1985,3384
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","166","Embakasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1754,1050,2927
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","167","Kirawa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1817,1283,2571
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","168","Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3076,2082,4544
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","169","J35,Block 62/469 Kibera Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1474,901,2409
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","172","James Gichuru Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1501,930,2421
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","173","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3250,2505,4216
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","175","Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2089,1430,3050
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","176","Share Saifiyah Burhaniyah","1/10/2017 - 1/12/2017, Every day, Daily Average",1674,1066,2628
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","177","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2679,1818,3946
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","178","Kugeria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1533,1032,2276
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","179","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2349,1764,3127
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","180","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2146,1458,3157
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","181","King'eero Shopping Centre Main Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2031,1475,2794
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","182","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1973,1410,2758
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","183","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",2242,1396,3600
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","184","Miami Ct Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2239,1481,3383
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","185","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2572,1783,3709
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","186","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2199,1613,2997
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","187","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3667,2421,5552
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","188","Hinga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1203,742,1949
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","189","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2073,1377,3120
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","190","Kamandura - Mai Mahiu - Narok Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2701,1859,3923
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","191","Bogani E Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1842,1178,2877
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","192","Cargen House","1/10/2017 - 1/12/2017, Every day, Daily Average",519,205,1313
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","193","Katani Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2264,1434,3573
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","194","James Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1896,1289,2787
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","196","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2995,1756,5107
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","198","Mae Properties Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1594,1008,2519
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","199","Catholic Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2438,1653,3595
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","200","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2666,1537,4622
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","201","Masimba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2089,1325,3291
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","202","Rose Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",915,532,1571
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","203","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2753,1848,4100
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","204","Mukiri Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1437,930,2220
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","206","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2486,1852,3336
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","207","2nd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",1903,1290,2807
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","208","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2939,1999,4320
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","209","City Chicken Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1888,1247,2857
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","210","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1611,931,2785
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","211","Kayole Spine Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1931,1212,3074
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","212","Lunga Lunga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1446,819,2552
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","213","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1664,1145,2416
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","214","Lane 26","1/10/2017 - 1/12/2017, Every day, Daily Average",1968,1347,2875
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","218","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3071,2072,4550
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","220","Dagoretti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3058,2108,4436
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","221","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3021,2190,4165
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","222","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3090,1972,4841
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","224","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1835,1099,3063
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","225","Woodvalle Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1201,739,1949
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","227","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2228,1574,3152
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","228","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2426,1525,3856
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","229","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",993,527,1869
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","230","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2935,1871,4602
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","231","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1888,1016,3508
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","232","Imani Project","1/10/2017 - 1/12/2017, Every day, Daily Average",1830,1149,2912
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","233","Kerarapon Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",2587,1727,3874
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","234","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1871,1343,2605
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","235","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2247,1612,3131
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","237","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1864,1232,2819
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","238","School Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3507,2121,5796
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","239","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1854,1211,2837
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","240","Karen Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2496,1686,3693
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","241","Riara Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1540,964,2458
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","242","200 Kyuna Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",1006,586,1724
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","243","E Africa Motorsports Tracks","1/10/2017 - 1/12/2017, Every day, Daily Average",1939,1174,3202
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","244","Wangapala Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",931,560,1546
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","245","Ole Shapara Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",943,483,1839
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","246","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1290,737,2255
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","247","Kabiria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2177,1477,3208
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","248","Pilipili Way","1/10/2017 - 1/12/2017, Every day, Daily Average",856,480,1525
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","249","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2254,1529,3321
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","251","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2113,1469,3038
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","252","Ol Leleshwa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1755,1078,2855
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","253","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2484,1864,3309
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","254","Banjui House","1/10/2017 - 1/12/2017, Every day, Daily Average",2170,1391,3383
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","255","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2625,1990,3461
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","256","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",538,284,1018
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","257","Mukunga","1/10/2017 - 1/12/2017, Every day, Daily Average",693,360,1333
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","258","0 Muthithi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",446,178,1117
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","259","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3039,1591,5804
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","262","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2511,1705,3695
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","263","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2388,1611,3537
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","264","Gigiri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1194,779,1829
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","266","Kandara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",998,576,1726
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","268","Church Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3248,2047,5151
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","269","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2050,1316,3191
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","271","GTZ Processional Way","1/10/2017 - 1/12/2017, Every day, Daily Average",351,102,1203
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","272","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2298,1456,3624
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","273","Thigiri Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1492,917,2427
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","275","Kikenni Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2315,1559,3436
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","276","Garden Estate Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",978,586,1629
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","277","Johari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2095,1305,3360
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","278","Farasi Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1469,971,2221
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","279","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1708,1059,2752
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","280","Ronix Gas Supplies","1/10/2017 - 1/12/2017, Every day, Daily Average",1797,1096,2944
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","281","Gatundu Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",1223,736,2031
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","282","0 Muthaiga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",804,465,1387
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","283","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2765,1660,4605
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","284","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",1897,1087,3310
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","285","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2975,2267,3902
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","286","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2663,1878,3774
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","287","City Clock","1/10/2017 - 1/12/2017, Every day, Daily Average",724,357,1466
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","288","Old Mombasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1394,808,2403
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","289","USIU Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1422,917,2203
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","290","Ngong Forest Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2196,1291,3733
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","291","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1418,846,2374
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","292","Loneview Access Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1855,1153,2982
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","293","Lake View Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1372,903,2082
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","294","Pofu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1993,1340,2962
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","295","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2552,1720,3786
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","297","Ndemi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1282,776,2116
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","298","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2413,1676,3472
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","299","Dallas Ct","1/10/2017 - 1/12/2017, Every day, Daily Average",3057,2075,4503
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","300","Helena Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2294,1466,3588
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","301","ELSEK ELSEK Nairobi Show House Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2430,1610,3666
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","302","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2677,2042,3508
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","303","400 Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2989,1884,4739
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","304","Embu - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1994,1368,2904
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","305","Amani","1/10/2017 - 1/12/2017, Every day, Daily Average",1718,1116,2644
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","306","Mandela Gate","1/10/2017 - 1/12/2017, Every day, Daily Average",2059,1357,3122
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","308","500 Kwarara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2441,1652,3605
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","309","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1671,1002,2783
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","311","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2832,1802,4449
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","312","100 Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1370,842,2228
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","313","Mumwe Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",1839,1284,2633
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","314","Mutarakwa Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2753,1843,4110
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","316","Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1379,812,2339
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","317","Fifth St","1/10/2017 - 1/12/2017, Every day, Daily Average",1109,650,1891
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","319","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2359,1633,3407
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","320","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2327,1572,3444
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","321","Fiesta-Bypass Link","1/10/2017 - 1/12/2017, Every day, Daily Average",1665,1133,2445
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","322","Wanyee Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1835,1129,2980
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","323","Njathaini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2080,1363,3173
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","324","30700 Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1352,861,2122
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","325","Community Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2603,1688,4012
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","326","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2273,1698,3041
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","327","Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1512,914,2499
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","328","Sigona Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1909,1334,2731
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","329","1800 Mpaka Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",671,336,1338
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","330","Kanyariri-Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1857,1257,2741
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","331","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3147,2152,4601
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","332","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2144,1402,3277
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","333","Nyasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",961,532,1734
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","334","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1338,777,2302
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","335","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2131,1493,3039
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","336","0 Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2760,1844,4129
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","337","0 Milima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2746,1661,4537
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","338","Gatundu-Juja Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2376,1703,3314
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","339","Kinanda Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2136,1471,3101
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","340","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1798,1190,2715
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","341","Hillcrest Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",2299,1469,3596
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","343","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2627,1431,4821
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","344","Kibiku Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2238,1404,3567
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","345","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3359,2108,5350
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","346","Kikuyu - Nderi Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2114,1459,3062
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","347","Ghana Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1549,1003,2390
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","348","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2685,2050,3515
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","349","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2482,1796,3429
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","350","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2469,1723,3537
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","351","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1235,692,2201
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","352","Ngong View Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2848,2030,3993
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","353","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2541,1496,4314
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","354","Kahawa Flyover","1/10/2017 - 1/12/2017, Every day, Daily Average",1488,951,2327
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","355","Kapenguria","1/10/2017 - 1/12/2017, Every day, Daily Average",1756,1229,2507
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","357","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2696,1784,4073
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","358","Baba Dogo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1493,967,2304
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","359","Masai W Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2738,1774,4224
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","360","Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2854,1840,4425
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","361","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3822,2628,5556
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","362","Enterprise Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1090,591,2009
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","363","Kahawa Sukari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",1932,1288,2896
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","364","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2809,1894,4165
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","365","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3536,2350,5319
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","366","Red Hill Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1631,1092,2435
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","367","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1793,1103,2913
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","368","Tara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",946,586,1525
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","369","Green Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2437,1667,3561
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","370","Emmaus Street,","1/10/2017 - 1/12/2017, Every day, Daily Average",2398,1575,3650
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","371","Racing Circuit","1/10/2017 - 1/12/2017, Every day, Daily Average",1208,669,2179
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","372","Musa Gitau Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1094,643,1860
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","374","Namanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2770,1973,3887
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","376","Gathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1938,1277,2940
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","377","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2087,1354,3214
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","378","Aerodrome Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",580,251,1338
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","379","Kamukunji Road","1/10/2017 - 1/12/2017, Every day, Daily Average",666,297,1489
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","380","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1693,1045,2740
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","381","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2283,1675,3110
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","383","Muungano House","1/10/2017 - 1/12/2017, Every day, Daily Average",712,381,1328
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","384","Kitengela-Noonkopir Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2608,1813,3751
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","385","Laxmi Estate","1/10/2017 - 1/12/2017, Every day, Daily Average",1680,1087,2595
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","386","Ablution Block","1/10/2017 - 1/12/2017, Every day, Daily Average",751,373,1509
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","387","3rd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2312,1473,3628
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","388","0 Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1776,1104,2856
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","389","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2572,1907,3467
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","390","100-188 Thego Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1299,760,2218
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","391","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2051,1424,2953
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","392","Coffee Garden Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",880,519,1490
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","394","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2389,1654,3449
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","395","EPZ Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2967,2299,3827
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","396","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2228,1395,3557
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","397","Mahavir Court","1/10/2017 - 1/12/2017, Every day, Daily Average",616,310,1221
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","398","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2015,1440,2818
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","399","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2520,1642,3866
-"192","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","400","Outer Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",877,512,1499
+"Date","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Daily Mean Travel Time (Seconds)","Daily Range - Lower Bound Travel Time (Seconds)","Daily Range - Upper Bound Travel Time (Seconds)","AM Mean Travel Time (Seconds)","AM Range - Lower Bound Travel Time (Seconds)","AM Range - Upper Bound Travel Time (Seconds)","PM Mean Travel Time (Seconds)","PM Range - Lower Bound Travel Time (Seconds)","PM Range - Upper Bound Travel Time (Seconds)","Midday Mean Travel Time (Seconds)","Midday Range - Lower Bound Travel Time (Seconds)","Midday Range - Upper Bound Travel Time (Seconds)","Evening Mean Travel Time (Seconds)","Evening Range - Lower Bound Travel Time (Seconds)","Evening Range - Upper Bound Travel Time (Seconds)","Early Morning Mean Travel Time (Seconds)","Early Morning Range - Lower Bound Travel Time (Seconds)","Early Morning Range - Upper Bound Travel Time (Seconds)"
+"10/01/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/02/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",338,120,954,,,,,,,,,,338,120,954,,,
+"10/03/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",837,354,1979,,,,,,,,,,837,354,1979,,,
+"10/04/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",607,144,2545,,,,,,,,,,607,144,2545,,,
+"10/05/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",352,118,1052,,,,,,,,,,352,118,1052,,,
+"10/06/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",362,124,1057,,,,,,,,,,362,124,1057,,,
+"10/07/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",652,208,2043,,,,,,,,,,652,208,2043,,,
+"10/08/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/09/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",660,175,2481,,,,,,,,,,660,175,2481,,,
+"10/10/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",202,84,489,,,,,,,,,,202,84,489,,,
+"10/11/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",590,124,2803,,,,,,,,,,590,124,2803,,,
+"10/12/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",390,172,881,,,,,,,,,,390,172,881,,,
+"10/13/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",581,220,1531,,,,,,,,,,581,220,1531,,,
+"10/14/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",453,137,1492,,,,,,,,,,453,137,1492,,,
+"10/15/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",855,148,4915,,,,,,,,,,855,148,4915,,,
+"10/16/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/17/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/18/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",429,127,1444,,,,,,,,,,429,127,1444,,,
+"10/19/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",394,153,1016,,,,,,,,,,394,153,1016,,,
+"10/20/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/21/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",176,98,315,,,,,,,,,,176,98,315,,,
+"10/22/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",118,69,200,,,,,,,,,,118,69,200,,,
+"10/23/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/24/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",194,96,390,,,,,,,,,,194,96,390,,,
+"10/25/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",631,173,2300,,,,,,,,,,631,173,2300,,,
+"10/26/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/27/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",280,85,922,,,,,,,,,,280,85,922,,,
+"10/28/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",562,139,2266,,,,,,,,,,562,139,2266,,,
+"10/29/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"10/30/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/01/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/02/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",309,112,849,,,,,,,,,,309,112,849,,,
+"11/03/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",613,200,1875,,,,,,,,,,613,200,1875,,,
+"11/04/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",313,104,945,,,,,,,,,,313,104,945,,,
+"11/05/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/06/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/07/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",419,123,1428,,,,,,,,,,419,123,1428,,,
+"11/08/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",506,205,1246,,,,,,,,,,506,205,1246,,,
+"11/09/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",364,131,1010,,,,,,,,,,364,131,1010,,,
+"11/10/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",505,199,1281,,,,,,,,,,505,199,1281,,,
+"11/11/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",285,95,854,,,,,,,,,,285,95,854,,,
+"11/12/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",281,110,714,,,,,,,,,,281,110,714,,,
+"11/13/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",922,217,3907,,,,,,,,,,922,217,3907,,,
+"11/14/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",875,241,3171,,,,,,,,,,875,241,3171,,,
+"11/15/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",196,80,475,,,,,,,,,,196,80,475,,,
+"11/16/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",602,171,2114,,,,,,,,,,602,171,2114,,,
+"11/17/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",650,165,2555,,,,,,,,,,650,165,2555,,,
+"11/18/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",600,179,2003,,,,,,,,,,600,179,2003,,,
+"11/19/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/20/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/21/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",374,131,1063,,,,,,,,,,374,131,1063,,,
+"11/22/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",75,37,150,,,,,,,,,,75,37,150,,,
+"11/23/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",1404,293,6714,,,,,,,,,,1404,293,6714,,,
+"11/24/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",386,164,909,,,,,,,,,,386,164,909,,,
+"11/25/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",310,122,786,,,,,,,,,,310,122,786,,,
+"11/26/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",,,,,,,,,,,,,,,,,,
+"11/27/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",420,200,878,,,,,,,,,,420,200,878,,,
+"11/28/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",399,134,1187,,,,,,,,,,399,134,1187,,,
+"11/29/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",660,173,2511,,,,,,,,,,660,173,2511,,,
+"12/01/2017","65","KISII UNIVERSITY NAIROBI CAMPUS, Corner House, Nairobi","65","City Square",481,148,1557,,,,,,,,,,481,148,1557,,,

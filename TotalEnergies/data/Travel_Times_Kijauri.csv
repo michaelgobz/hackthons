@@ -1,343 +1,63 @@
-"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
-"192","Cargen House","1","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3420,2654,4407
-"192","Cargen House","3","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2115,1536,2912
-"192","Cargen House","5","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1906,1290,2815
-"192","Cargen House","6","Athi River Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2830,2052,3901
-"192","Cargen House","7","Jirongo Flats","1/10/2017 - 1/12/2017, Every day, Daily Average",2478,1585,3874
-"192","Cargen House","9","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2433,1756,3370
-"192","Cargen House","11","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2377,1627,3471
-"192","Cargen House","12","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3134,2253,4359
-"192","Cargen House","13","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",2733,1770,4219
-"192","Cargen House","14","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2740,1857,4041
-"192","Cargen House","15","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2545,1738,3724
-"192","Cargen House","16","Silanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1884,1230,2884
-"192","Cargen House","17","Ole Kasasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3324,2285,4835
-"192","Cargen House","19","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1858,1283,2688
-"192","Cargen House","20","Icipe Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1297,788,2133
-"192","Cargen House","21","Carpenter's Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",2707,1837,3987
-"192","Cargen House","22","Kiroe Chunga Mali Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2435,1852,3201
-"192","Cargen House","23","Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1577,1047,2373
-"192","Cargen House","24","Ndege Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2321,1583,3401
-"192","Cargen House","25","1000 Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2092,1347,3247
-"192","Cargen House","26","Arena Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1104,677,1798
-"192","Cargen House","27","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2182,1342,3546
-"192","Cargen House","28","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2873,1825,4522
-"192","Cargen House","29","Mayor Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2161,1390,3358
-"192","Cargen House","30","Kerwa","1/10/2017 - 1/12/2017, Every day, Daily Average",2316,1721,3116
-"192","Cargen House","32","Hospital Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2849,1875,4328
-"192","Cargen House","33","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1549,1035,2318
-"192","Cargen House","34","Neema Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3701,2594,5280
-"192","Cargen House","35","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3562,2430,5221
-"192","Cargen House","36","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1063,685,1647
-"192","Cargen House","37","Riflo Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",1397,868,2248
-"192","Cargen House","39","Kiambia-Gathanga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1823,1180,2816
-"192","Cargen House","40","Stage Mpya","1/10/2017 - 1/12/2017, Every day, Daily Average",1911,1136,3214
-"192","Cargen House","41","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3118,1817,5349
-"192","Cargen House","42","Eastern By Pass","1/10/2017 - 1/12/2017, Every day, Daily Average",2671,1638,4354
-"192","Cargen House","44","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2493,1569,3960
-"192","Cargen House","46","Magoko Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3365,2564,4415
-"192","Cargen House","47","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2435,1783,3323
-"192","Cargen House","48","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",620,349,1099
-"192","Cargen House","49","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",1772,1086,2890
-"192","Cargen House","51","First Freight Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1542,964,2464
-"192","Cargen House","52","300 Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2409,1575,3684
-"192","Cargen House","53","Bamburi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2982,1996,4454
-"192","Cargen House","54","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2602,1893,3576
-"192","Cargen House","56","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1643,992,2718
-"192","Cargen House","57","Getathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1587,1051,2395
-"192","Cargen House","58","Hekima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2142,1438,3190
-"192","Cargen House","59","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",746,433,1283
-"192","Cargen House","60","Mutungoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3099,2195,4374
-"192","Cargen House","61","Kinanda Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1705,1154,2517
-"192","Cargen House","62","Lucky Twin Plaza Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1837,1237,2726
-"192","Cargen House","63","Murishu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1885,1260,2818
-"192","Cargen House","64","Nziu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1191,687,2063
-"192","Cargen House","65","TRM Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1187,737,1910
-"192","Cargen House","66","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1715,1006,2923
-"192","Cargen House","67","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1807,1151,2836
-"192","Cargen House","68","Millenium Krishna","1/10/2017 - 1/12/2017, Every day, Daily Average",1220,758,1963
-"192","Cargen House","69","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",823,421,1607
-"192","Cargen House","70","Mbagathi Way","1/10/2017 - 1/12/2017, Every day, Daily Average",1040,554,1948
-"192","Cargen House","71","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2350,1620,3408
-"192","Cargen House","72","Biashara St","1/10/2017 - 1/12/2017, Every day, Daily Average",1805,1268,2568
-"192","Cargen House","73","Beijing Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1884,1213,2925
-"192","Cargen House","76","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2947,1985,4373
-"192","Cargen House","77","Argwings Kodhek Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1088,640,1847
-"192","Cargen House","78","ARGWINGS KODHEK APPARTMENTS","1/10/2017 - 1/12/2017, Every day, Daily Average",1403,878,2239
-"192","Cargen House","79","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2046,1282,3263
-"192","Cargen House","80","Kihingo","1/10/2017 - 1/12/2017, Every day, Daily Average",2035,1444,2866
-"192","Cargen House","81","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2131,1400,3243
-"192","Cargen House","82","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1471,908,2380
-"192","Cargen House","83","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1725,1180,2520
-"192","Cargen House","86","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2046,1188,3522
-"192","Cargen House","87","Church Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1867,1266,2752
-"192","Cargen House","88","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1666,1001,2770
-"192","Cargen House","90","0 General Mathenge Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1068,625,1824
-"192","Cargen House","91","Irungu Riika Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",361,138,941
-"192","Cargen House","93","Mukinduri Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2162,1291,3619
-"192","Cargen House","94","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1864,1174,2957
-"192","Cargen House","95","Adminstration Block","1/10/2017 - 1/12/2017, Every day, Daily Average",905,476,1720
-"192","Cargen House","96","Grevillea Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1172,650,2111
-"192","Cargen House","97","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",3074,2332,4051
-"192","Cargen House","98","Tembo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2134,1459,3119
-"192","Cargen House","99","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2326,1478,3659
-"192","Cargen House","101","Fifth Avenue","1/10/2017 - 1/12/2017, Every day, Daily Average",2921,1975,4320
-"192","Cargen House","102","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1343,880,2048
-"192","Cargen House","103","Syokimau - Katani Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1857,1156,2981
-"192","Cargen House","104","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2823,1915,4160
-"192","Cargen House","105","Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2604,1863,3637
-"192","Cargen House","106","Rhino Park Close","1/10/2017 - 1/12/2017, Every day, Daily Average",2922,1876,4550
-"192","Cargen House","107","Kabarnet Gardens","1/10/2017 - 1/12/2017, Every day, Daily Average",1078,604,1922
-"192","Cargen House","108","Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1976,1327,2940
-"192","Cargen House","110","0 Waiyaki Way","1/10/2017 - 1/12/2017, Every day, Daily Average",975,552,1720
-"192","Cargen House","112","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1058,646,1732
-"192","Cargen House","113","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1696,1135,2533
-"192","Cargen House","114","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1943,1288,2930
-"192","Cargen House","115","Syokimau Airport Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2406,1579,3664
-"192","Cargen House","116","Kayole Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2374,1567,3596
-"192","Cargen House","117","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2523,1691,3762
-"192","Cargen House","119","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2254,1540,3297
-"192","Cargen House","120","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3081,2074,4576
-"192","Cargen House","121","Kibichiko Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1874,1271,2761
-"192","Cargen House","123","Muigai Kenyatta Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2353,1614,3429
-"192","Cargen House","124","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2183,1447,3292
-"192","Cargen House","125","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3244,2366,4445
-"192","Cargen House","126","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3257,2137,4962
-"192","Cargen House","127","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1672,1118,2499
-"192","Cargen House","128","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1739,1094,2762
-"192","Cargen House","129","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2743,1586,4741
-"192","Cargen House","130","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1404,800,2461
-"192","Cargen House","131","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3200,2208,4636
-"192","Cargen House","132","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2355,1528,3627
-"192","Cargen House","133","P.O. Box 41185","1/10/2017 - 1/12/2017, Every day, Daily Average",792,381,1646
-"192","Cargen House","135","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2346,1593,3454
-"192","Cargen House","136","900 Edina Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",2792,1820,4282
-"192","Cargen House","137","Thika - Mang'u Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2826,2160,3697
-"192","Cargen House","138","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1712,1116,2625
-"192","Cargen House","139","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1419,900,2235
-"192","Cargen House","140","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2011,1396,2896
-"192","Cargen House","141","Loiyangalani Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1573,1005,2459
-"192","Cargen House","142","Brookside Grove","1/10/2017 - 1/12/2017, Every day, Daily Average",799,434,1468
-"192","Cargen House","143","Olkeri Laiser Hill Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2990,1976,4522
-"192","Cargen House","144","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2646,1792,3906
-"192","Cargen House","145","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1963,1274,3023
-"192","Cargen House","146","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2920,1880,4534
-"192","Cargen House","147","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2577,1952,3400
-"192","Cargen House","148","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2985,2040,4366
-"192","Cargen House","150","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2399,1616,3561
-"192","Cargen House","151","0 Riverside Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",639,309,1320
-"192","Cargen House","152","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2508,1782,3528
-"192","Cargen House","153","0 Bendera Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1286,818,2019
-"192","Cargen House","154","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1848,1217,2805
-"192","Cargen House","155","C65","1/10/2017 - 1/12/2017, Every day, Daily Average",1929,1321,2815
-"192","Cargen House","157","0 Spring Valley Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1197,732,1957
-"192","Cargen House","158","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1536,973,2423
-"192","Cargen House","159","Zada Flat","1/10/2017 - 1/12/2017, Every day, Daily Average",2265,1518,3378
-"192","Cargen House","161","clay city masournets","1/10/2017 - 1/12/2017, Every day, Daily Average",1390,859,2248
-"192","Cargen House","162","Nderi K.A.R.I. Nrb Rd.","1/10/2017 - 1/12/2017, Every day, Daily Average",1939,1557,2414
-"192","Cargen House","164","Mumbi Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1558,952,2549
-"192","Cargen House","165","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",2592,1985,3384
-"192","Cargen House","166","Embakasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1754,1050,2927
-"192","Cargen House","167","Kirawa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1817,1283,2571
-"192","Cargen House","168","Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3076,2082,4544
-"192","Cargen House","169","J35,Block 62/469 Kibera Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1474,901,2409
-"192","Cargen House","172","James Gichuru Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1501,930,2421
-"192","Cargen House","173","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3250,2505,4216
-"192","Cargen House","175","Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2089,1430,3050
-"192","Cargen House","176","Share Saifiyah Burhaniyah","1/10/2017 - 1/12/2017, Every day, Daily Average",1674,1066,2628
-"192","Cargen House","177","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2679,1818,3946
-"192","Cargen House","178","Kugeria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1533,1032,2276
-"192","Cargen House","179","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2349,1764,3127
-"192","Cargen House","180","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2146,1458,3157
-"192","Cargen House","181","King'eero Shopping Centre Main Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2031,1475,2794
-"192","Cargen House","182","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1973,1410,2758
-"192","Cargen House","183","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",2242,1396,3600
-"192","Cargen House","184","Miami Ct Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2239,1481,3383
-"192","Cargen House","185","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2572,1783,3709
-"192","Cargen House","186","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2199,1613,2997
-"192","Cargen House","187","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3667,2421,5552
-"192","Cargen House","188","Hinga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1203,742,1949
-"192","Cargen House","189","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2073,1377,3120
-"192","Cargen House","190","Kamandura - Mai Mahiu - Narok Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2701,1859,3923
-"192","Cargen House","191","Bogani E Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1842,1178,2877
-"192","Cargen House","192","Cargen House","1/10/2017 - 1/12/2017, Every day, Daily Average",519,205,1313
-"192","Cargen House","193","Katani Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2264,1434,3573
-"192","Cargen House","194","James Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1896,1289,2787
-"192","Cargen House","196","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2995,1756,5107
-"192","Cargen House","198","Mae Properties Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1594,1008,2519
-"192","Cargen House","199","Catholic Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2438,1653,3595
-"192","Cargen House","200","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2666,1537,4622
-"192","Cargen House","201","Masimba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2089,1325,3291
-"192","Cargen House","202","Rose Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",915,532,1571
-"192","Cargen House","203","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2753,1848,4100
-"192","Cargen House","204","Mukiri Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1437,930,2220
-"192","Cargen House","206","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2486,1852,3336
-"192","Cargen House","207","2nd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",1903,1290,2807
-"192","Cargen House","208","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2939,1999,4320
-"192","Cargen House","209","City Chicken Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1888,1247,2857
-"192","Cargen House","210","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1611,931,2785
-"192","Cargen House","211","Kayole Spine Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1931,1212,3074
-"192","Cargen House","212","Lunga Lunga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1446,819,2552
-"192","Cargen House","213","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1664,1145,2416
-"192","Cargen House","214","Lane 26","1/10/2017 - 1/12/2017, Every day, Daily Average",1968,1347,2875
-"192","Cargen House","218","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3071,2072,4550
-"192","Cargen House","220","Dagoretti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3058,2108,4436
-"192","Cargen House","221","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3021,2190,4165
-"192","Cargen House","222","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3090,1972,4841
-"192","Cargen House","224","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1835,1099,3063
-"192","Cargen House","225","Woodvalle Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1201,739,1949
-"192","Cargen House","227","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2228,1574,3152
-"192","Cargen House","228","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2426,1525,3856
-"192","Cargen House","229","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",993,527,1869
-"192","Cargen House","230","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2935,1871,4602
-"192","Cargen House","231","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1888,1016,3508
-"192","Cargen House","232","Imani Project","1/10/2017 - 1/12/2017, Every day, Daily Average",1830,1149,2912
-"192","Cargen House","233","Kerarapon Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",2587,1727,3874
-"192","Cargen House","234","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1871,1343,2605
-"192","Cargen House","235","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2247,1612,3131
-"192","Cargen House","237","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1864,1232,2819
-"192","Cargen House","238","School Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3507,2121,5796
-"192","Cargen House","239","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1854,1211,2837
-"192","Cargen House","240","Karen Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2496,1686,3693
-"192","Cargen House","241","Riara Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1540,964,2458
-"192","Cargen House","242","200 Kyuna Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",1006,586,1724
-"192","Cargen House","243","E Africa Motorsports Tracks","1/10/2017 - 1/12/2017, Every day, Daily Average",1939,1174,3202
-"192","Cargen House","244","Wangapala Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",931,560,1546
-"192","Cargen House","245","Ole Shapara Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",943,483,1839
-"192","Cargen House","246","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1290,737,2255
-"192","Cargen House","247","Kabiria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2177,1477,3208
-"192","Cargen House","248","Pilipili Way","1/10/2017 - 1/12/2017, Every day, Daily Average",856,480,1525
-"192","Cargen House","249","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2254,1529,3321
-"192","Cargen House","251","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2113,1469,3038
-"192","Cargen House","252","Ol Leleshwa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1755,1078,2855
-"192","Cargen House","253","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2484,1864,3309
-"192","Cargen House","254","Banjui House","1/10/2017 - 1/12/2017, Every day, Daily Average",2170,1391,3383
-"192","Cargen House","255","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2625,1990,3461
-"192","Cargen House","256","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",538,284,1018
-"192","Cargen House","257","Mukunga","1/10/2017 - 1/12/2017, Every day, Daily Average",693,360,1333
-"192","Cargen House","258","0 Muthithi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",446,178,1117
-"192","Cargen House","259","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3039,1591,5804
-"192","Cargen House","262","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2511,1705,3695
-"192","Cargen House","263","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2388,1611,3537
-"192","Cargen House","264","Gigiri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1194,779,1829
-"192","Cargen House","266","Kandara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",998,576,1726
-"192","Cargen House","268","Church Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3248,2047,5151
-"192","Cargen House","269","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2050,1316,3191
-"192","Cargen House","271","GTZ Processional Way","1/10/2017 - 1/12/2017, Every day, Daily Average",351,102,1203
-"192","Cargen House","272","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2298,1456,3624
-"192","Cargen House","273","Thigiri Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1492,917,2427
-"192","Cargen House","275","Kikenni Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2315,1559,3436
-"192","Cargen House","276","Garden Estate Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",978,586,1629
-"192","Cargen House","277","Johari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2095,1305,3360
-"192","Cargen House","278","Farasi Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1469,971,2221
-"192","Cargen House","279","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1708,1059,2752
-"192","Cargen House","280","Ronix Gas Supplies","1/10/2017 - 1/12/2017, Every day, Daily Average",1797,1096,2944
-"192","Cargen House","281","Gatundu Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",1223,736,2031
-"192","Cargen House","282","0 Muthaiga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",804,465,1387
-"192","Cargen House","283","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2765,1660,4605
-"192","Cargen House","284","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",1897,1087,3310
-"192","Cargen House","285","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2975,2267,3902
-"192","Cargen House","286","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2663,1878,3774
-"192","Cargen House","287","City Clock","1/10/2017 - 1/12/2017, Every day, Daily Average",724,357,1466
-"192","Cargen House","288","Old Mombasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1394,808,2403
-"192","Cargen House","289","USIU Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1422,917,2203
-"192","Cargen House","290","Ngong Forest Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2196,1291,3733
-"192","Cargen House","291","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1418,846,2374
-"192","Cargen House","292","Loneview Access Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1855,1153,2982
-"192","Cargen House","293","Lake View Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1372,903,2082
-"192","Cargen House","294","Pofu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1993,1340,2962
-"192","Cargen House","295","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2552,1720,3786
-"192","Cargen House","297","Ndemi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1282,776,2116
-"192","Cargen House","298","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2413,1676,3472
-"192","Cargen House","299","Dallas Ct","1/10/2017 - 1/12/2017, Every day, Daily Average",3057,2075,4503
-"192","Cargen House","300","Helena Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2294,1466,3588
-"192","Cargen House","301","ELSEK ELSEK Nairobi Show House Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2430,1610,3666
-"192","Cargen House","302","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2677,2042,3508
-"192","Cargen House","303","400 Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2989,1884,4739
-"192","Cargen House","304","Embu - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1994,1368,2904
-"192","Cargen House","305","Amani","1/10/2017 - 1/12/2017, Every day, Daily Average",1718,1116,2644
-"192","Cargen House","306","Mandela Gate","1/10/2017 - 1/12/2017, Every day, Daily Average",2059,1357,3122
-"192","Cargen House","308","500 Kwarara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2441,1652,3605
-"192","Cargen House","309","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1671,1002,2783
-"192","Cargen House","311","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2832,1802,4449
-"192","Cargen House","312","100 Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1370,842,2228
-"192","Cargen House","313","Mumwe Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",1839,1284,2633
-"192","Cargen House","314","Mutarakwa Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2753,1843,4110
-"192","Cargen House","316","Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1379,812,2339
-"192","Cargen House","317","Fifth St","1/10/2017 - 1/12/2017, Every day, Daily Average",1109,650,1891
-"192","Cargen House","319","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2359,1633,3407
-"192","Cargen House","320","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2327,1572,3444
-"192","Cargen House","321","Fiesta-Bypass Link","1/10/2017 - 1/12/2017, Every day, Daily Average",1665,1133,2445
-"192","Cargen House","322","Wanyee Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1835,1129,2980
-"192","Cargen House","323","Njathaini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2080,1363,3173
-"192","Cargen House","324","30700 Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1352,861,2122
-"192","Cargen House","325","Community Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2603,1688,4012
-"192","Cargen House","326","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2273,1698,3041
-"192","Cargen House","327","Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1512,914,2499
-"192","Cargen House","328","Sigona Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1909,1334,2731
-"192","Cargen House","329","1800 Mpaka Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",671,336,1338
-"192","Cargen House","330","Kanyariri-Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1857,1257,2741
-"192","Cargen House","331","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3147,2152,4601
-"192","Cargen House","332","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2144,1402,3277
-"192","Cargen House","333","Nyasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",961,532,1734
-"192","Cargen House","334","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1338,777,2302
-"192","Cargen House","335","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2131,1493,3039
-"192","Cargen House","336","0 Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2760,1844,4129
-"192","Cargen House","337","0 Milima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2746,1661,4537
-"192","Cargen House","338","Gatundu-Juja Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2376,1703,3314
-"192","Cargen House","339","Kinanda Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2136,1471,3101
-"192","Cargen House","340","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1798,1190,2715
-"192","Cargen House","341","Hillcrest Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",2299,1469,3596
-"192","Cargen House","343","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2627,1431,4821
-"192","Cargen House","344","Kibiku Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2238,1404,3567
-"192","Cargen House","345","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3359,2108,5350
-"192","Cargen House","346","Kikuyu - Nderi Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2114,1459,3062
-"192","Cargen House","347","Ghana Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1549,1003,2390
-"192","Cargen House","348","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2685,2050,3515
-"192","Cargen House","349","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2482,1796,3429
-"192","Cargen House","350","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2469,1723,3537
-"192","Cargen House","351","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1235,692,2201
-"192","Cargen House","352","Ngong View Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2848,2030,3993
-"192","Cargen House","353","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2541,1496,4314
-"192","Cargen House","354","Kahawa Flyover","1/10/2017 - 1/12/2017, Every day, Daily Average",1488,951,2327
-"192","Cargen House","355","Kapenguria","1/10/2017 - 1/12/2017, Every day, Daily Average",1756,1229,2507
-"192","Cargen House","357","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2696,1784,4073
-"192","Cargen House","358","Baba Dogo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1493,967,2304
-"192","Cargen House","359","Masai W Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2738,1774,4224
-"192","Cargen House","360","Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2854,1840,4425
-"192","Cargen House","361","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3822,2628,5556
-"192","Cargen House","362","Enterprise Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1090,591,2009
-"192","Cargen House","363","Kahawa Sukari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",1932,1288,2896
-"192","Cargen House","364","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2809,1894,4165
-"192","Cargen House","365","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3536,2350,5319
-"192","Cargen House","366","Red Hill Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1631,1092,2435
-"192","Cargen House","367","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1793,1103,2913
-"192","Cargen House","368","Tara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",946,586,1525
-"192","Cargen House","369","Green Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2437,1667,3561
-"192","Cargen House","370","Emmaus Street,","1/10/2017 - 1/12/2017, Every day, Daily Average",2398,1575,3650
-"192","Cargen House","371","Racing Circuit","1/10/2017 - 1/12/2017, Every day, Daily Average",1208,669,2179
-"192","Cargen House","372","Musa Gitau Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1094,643,1860
-"192","Cargen House","374","Namanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2770,1973,3887
-"192","Cargen House","376","Gathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1938,1277,2940
-"192","Cargen House","377","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2087,1354,3214
-"192","Cargen House","378","Aerodrome Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",580,251,1338
-"192","Cargen House","379","Kamukunji Road","1/10/2017 - 1/12/2017, Every day, Daily Average",666,297,1489
-"192","Cargen House","380","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1693,1045,2740
-"192","Cargen House","381","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2283,1675,3110
-"192","Cargen House","383","Muungano House","1/10/2017 - 1/12/2017, Every day, Daily Average",712,381,1328
-"192","Cargen House","384","Kitengela-Noonkopir Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2608,1813,3751
-"192","Cargen House","385","Laxmi Estate","1/10/2017 - 1/12/2017, Every day, Daily Average",1680,1087,2595
-"192","Cargen House","386","Ablution Block","1/10/2017 - 1/12/2017, Every day, Daily Average",751,373,1509
-"192","Cargen House","387","3rd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2312,1473,3628
-"192","Cargen House","388","0 Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1776,1104,2856
-"192","Cargen House","389","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2572,1907,3467
-"192","Cargen House","390","100-188 Thego Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1299,760,2218
-"192","Cargen House","391","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2051,1424,2953
-"192","Cargen House","392","Coffee Garden Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",880,519,1490
-"192","Cargen House","394","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2389,1654,3449
-"192","Cargen House","395","EPZ Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2967,2299,3827
-"192","Cargen House","396","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2228,1395,3557
-"192","Cargen House","397","Mahavir Court","1/10/2017 - 1/12/2017, Every day, Daily Average",616,310,1221
-"192","Cargen House","398","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2015,1440,2818
-"192","Cargen House","399","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2520,1642,3866
-"192","Cargen House","400","Outer Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",877,512,1499
+"Date","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Daily Mean Travel Time (Seconds)","Daily Range - Lower Bound Travel Time (Seconds)","Daily Range - Upper Bound Travel Time (Seconds)","AM Mean Travel Time (Seconds)","AM Range - Lower Bound Travel Time (Seconds)","AM Range - Upper Bound Travel Time (Seconds)","PM Mean Travel Time (Seconds)","PM Range - Lower Bound Travel Time (Seconds)","PM Range - Upper Bound Travel Time (Seconds)","Midday Mean Travel Time (Seconds)","Midday Range - Lower Bound Travel Time (Seconds)","Midday Range - Upper Bound Travel Time (Seconds)","Evening Mean Travel Time (Seconds)","Evening Range - Lower Bound Travel Time (Seconds)","Evening Range - Upper Bound Travel Time (Seconds)","Early Morning Mean Travel Time (Seconds)","Early Morning Range - Lower Bound Travel Time (Seconds)","Early Morning Range - Upper Bound Travel Time (Seconds)"
+"10/01/2017","81","Landmawe","65","City Square",196,100,386,150,81,276,239,127,450,264,135,517,161,88,296,133,75,237
+"10/02/2017","81","Landmawe","65","City Square",419,169,1038,593,297,1181,671,339,1329,426,189,960,195,100,379,267,108,656
+"10/03/2017","81","Landmawe","65","City Square",657,263,1640,713,355,1432,1006,515,1966,748,409,1366,329,131,828,329,130,831
+"10/04/2017","81","Landmawe","65","City Square",606,242,1516,665,333,1328,917,519,1620,766,431,1359,238,111,510,208,97,444
+"10/05/2017","81","Landmawe","65","City Square",674,275,1654,643,347,1194,997,497,1998,832,466,1485,393,152,1016,266,115,618
+"10/06/2017","81","Landmawe","65","City Square",418,176,992,668,332,1346,590,277,1255,491,249,969,217,106,445,231,103,517
+"10/07/2017","81","Landmawe","65","City Square",333,134,823,360,168,768,210,116,382,585,299,1145,222,100,494,189,91,391
+"10/08/2017","81","Landmawe","65","City Square",195,100,380,186,88,393,173,97,308,240,132,436,171,91,323,172,85,351
+"10/09/2017","81","Landmawe","65","City Square",419,175,1000,582,300,1129,552,263,1158,439,209,921,210,97,453,310,127,757
+"10/10/2017","81","Landmawe","65","City Square",632,247,1618,658,335,1295,1121,613,2051,761,415,1394,265,112,626,209,99,440
+"10/11/2017","81","Landmawe","65","City Square",488,197,1205,533,266,1069,748,328,1706,407,196,844,489,177,1348,283,109,733
+"10/12/2017","81","Landmawe","65","City Square",633,251,1595,659,339,1281,1144,575,2277,773,405,1476,337,147,774,210,94,469
+"10/13/2017","81","Landmawe","65","City Square",387,157,952,636,321,1258,484,216,1087,416,181,954,244,109,544,282,118,674
+"10/14/2017","81","Landmawe","65","City Square",308,136,697,322,165,629,249,134,462,484,252,930,178,95,336,175,81,378
+"10/15/2017","81","Landmawe","65","City Square",186,96,361,127,79,206,155,95,252,234,122,451,185,94,364,154,79,299
+"10/16/2017","81","Landmawe","65","City Square",408,169,985,639,312,1309,745,342,1620,342,174,675,196,92,416,227,108,479
+"10/17/2017","81","Landmawe","65","City Square",532,211,1344,575,278,1191,1002,518,1936,569,303,1067,204,96,433,258,88,754
+"10/18/2017","81","Landmawe","65","City Square",556,222,1396,670,354,1269,1033,483,2210,622,353,1096,195,95,399,185,89,386
+"10/19/2017","81","Landmawe","65","City Square",543,219,1346,549,294,1026,904,466,1756,696,383,1265,313,132,743,164,86,314
+"10/20/2017","81","Landmawe","65","City Square",181,96,343,158,91,273,153,93,250,225,116,439,170,93,310,167,81,341
+"10/21/2017","81","Landmawe","65","City Square",289,126,662,263,128,539,228,108,477,428,231,790,180,90,361,198,84,465
+"10/22/2017","81","Landmawe","65","City Square",176,94,330,142,81,248,170,94,304,215,115,403,155,88,273,168,80,349
+"10/23/2017","81","Landmawe","65","City Square",586,234,1467,588,297,1163,1039,558,1935,703,400,1236,271,114,640,198,93,420
+"10/24/2017","81","Landmawe","65","City Square",578,223,1499,820,341,1975,662,348,1260,746,340,1633,295,130,667,220,95,506
+"10/25/2017","81","Landmawe","65","City Square",188,97,364,190,97,368,216,109,429,190,101,358,170,94,308,196,91,420
+"10/26/2017","81","Landmawe","65","City Square",173,86,345,119,76,187,128,85,192,164,85,318,203,90,456,197,90,433
+"10/27/2017","81","Landmawe","65","City Square",211,100,446,242,114,514,213,103,441,248,114,536,135,77,239,211,90,494
+"10/28/2017","81","Landmawe","65","City Square",177,96,327,153,96,242,157,91,272,213,112,403,154,88,269,161,82,316
+"10/29/2017","81","Landmawe","65","City Square",163,87,304,134,73,245,145,89,236,184,97,347,143,81,254,193,88,425
+"10/30/2017","81","Landmawe","65","City Square",492,207,1169,529,301,932,629,298,1326,621,323,1196,197,96,404,205,96,436
+"10/31/2017","81","Landmawe","65","City Square",446,194,1020,558,293,1062,579,306,1097,500,263,950,207,98,437,249,106,587
+"11/01/2017","81","Landmawe","65","City Square",618,239,1597,639,324,1260,1036,572,1877,720,387,1337,266,112,632,276,111,682
+"11/02/2017","81","Landmawe","65","City Square",633,242,1652,558,270,1153,1057,579,1930,823,461,1469,262,110,623,238,106,534
+"11/03/2017","81","Landmawe","65","City Square",685,267,1761,694,394,1222,1210,633,2314,820,437,1535,364,146,908,229,103,505
+"11/04/2017","81","Landmawe","65","City Square",395,162,959,403,179,904,488,226,1053,592,292,1199,256,114,570,163,86,308
+"11/05/2017","81","Landmawe","65","City Square",206,102,415,161,85,305,202,109,375,231,119,451,217,107,441,173,83,364
+"11/06/2017","81","Landmawe","65","City Square",579,231,1449,643,302,1369,1049,514,2139,629,351,1126,291,119,708,273,115,645
+"11/07/2017","81","Landmawe","65","City Square",645,263,1581,823,390,1736,1057,595,1878,681,385,1206,372,139,995,213,104,437
+"11/08/2017","81","Landmawe","65","City Square",625,240,1625,692,349,1369,1076,575,2012,728,383,1385,256,109,601,235,103,535
+"11/09/2017","81","Landmawe","65","City Square",611,242,1544,809,404,1619,874,450,1696,728,406,1304,266,115,617,189,93,382
+"11/10/2017","81","Landmawe","65","City Square",742,266,2072,1069,498,2295,1260,645,2461,873,425,1790,428,158,1154,311,118,821
+"11/11/2017","81","Landmawe","65","City Square",386,156,951,339,174,660,313,160,612,667,320,1390,233,110,495,237,101,554
+"11/12/2017","81","Landmawe","65","City Square",227,105,488,201,94,428,240,122,470,314,152,649,183,91,367,158,78,320
+"11/13/2017","81","Landmawe","65","City Square",605,235,1558,575,264,1253,1051,530,2084,701,380,1291,337,131,861,229,104,502
+"11/14/2017","81","Landmawe","65","City Square",681,263,1760,837,418,1677,845,470,1520,864,449,1662,304,122,754,213,103,439
+"11/15/2017","81","Landmawe","65","City Square",672,255,1764,655,323,1325,1014,587,1750,886,477,1645,238,106,534,323,130,801
+"11/16/2017","81","Landmawe","65","City Square",652,256,1661,705,364,1365,828,421,1628,855,433,1686,352,140,883,335,133,841
+"11/17/2017","81","Landmawe","65","City Square",392,155,987,644,344,1207,584,283,1207,506,233,1099,212,99,450,245,106,567
+"11/18/2017","81","Landmawe","65","City Square",354,148,847,412,183,929,305,147,632,573,299,1098,230,114,462,181,86,379
+"11/19/2017","81","Landmawe","65","City Square",226,107,477,171,86,342,280,154,510,228,113,457,196,94,404,253,105,610
+"11/20/2017","81","Landmawe","65","City Square",329,133,815,658,353,1229,331,156,700,294,128,671,185,90,379,225,99,509
+"11/21/2017","81","Landmawe","65","City Square",663,245,1797,681,364,1275,1274,722,2246,771,399,1488,304,116,800,279,117,664
+"11/22/2017","81","Landmawe","65","City Square",668,261,1705,723,348,1502,958,468,1961,815,427,1555,377,146,970,203,93,445
+"11/23/2017","81","Landmawe","65","City Square",606,240,1527,621,338,1141,927,488,1762,722,378,1379,353,136,916,198,94,416
+"11/24/2017","81","Landmawe","65","City Square",691,287,1660,644,309,1342,1034,519,2058,887,434,1814,485,217,1086,245,108,554
+"11/25/2017","81","Landmawe","65","City Square",402,171,946,312,149,650,513,298,883,638,353,1150,320,149,688,209,93,470
+"11/26/2017","81","Landmawe","65","City Square",283,125,640,,,,211,106,420,439,216,891,154,84,284,560,335,938
+"11/27/2017","81","Landmawe","65","City Square",598,227,1572,664,281,1567,810,361,1816,784,386,1592,309,130,734,216,101,461
+"11/28/2017","81","Landmawe","65","City Square",190,87,414,199,92,431,169,86,332,238,93,604,174,85,356,164,79,339
+"11/29/2017","81","Landmawe","65","City Square",663,244,1802,745,339,1635,1019,535,1939,797,387,1641,417,146,1190,191,87,416
+"11/30/2017","81","Landmawe","65","City Square",754,271,2093,788,334,1857,1063,503,2248,898,402,2005,567,189,1695,234,102,535
+"12/01/2017","81","Landmawe","65","City Square",655,242,1775,678,337,1364,1040,477,2263,944,468,1902,419,164,1064,197,95,409

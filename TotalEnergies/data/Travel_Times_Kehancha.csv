@@ -1,326 +1,63 @@
-"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
-"271","awendo lamba, 042, Nairobi","3","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1883,1286,2756
-"271","awendo lamba, 042, Nairobi","5","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1869,1271,2747
-"271","awendo lamba, 042, Nairobi","6","Athi River Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2682,1949,3689
-"271","awendo lamba, 042, Nairobi","7","Jirongo Flats","1/10/2017 - 1/12/2017, Every day, Daily Average",2323,1514,3563
-"271","awendo lamba, 042, Nairobi","9","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2477,1759,3486
-"271","awendo lamba, 042, Nairobi","12","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2883,2102,3952
-"271","awendo lamba, 042, Nairobi","13","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",2564,1536,4279
-"271","awendo lamba, 042, Nairobi","14","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3328,2184,5069
-"271","awendo lamba, 042, Nairobi","15","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2324,1507,3582
-"271","awendo lamba, 042, Nairobi","16","Silanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1771,1138,2754
-"271","awendo lamba, 042, Nairobi","17","Ole Kasasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3153,2201,4516
-"271","awendo lamba, 042, Nairobi","19","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1813,1333,2464
-"271","awendo lamba, 042, Nairobi","20","Icipe Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1365,820,2270
-"271","awendo lamba, 042, Nairobi","21","Carpenter's Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",2443,1470,4058
-"271","awendo lamba, 042, Nairobi","22","Kiroe Chunga Mali Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2182,1650,2884
-"271","awendo lamba, 042, Nairobi","23","Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1395,916,2123
-"271","awendo lamba, 042, Nairobi","24","Ndege Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2213,1476,3317
-"271","awendo lamba, 042, Nairobi","25","1000 Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2445,1511,3954
-"271","awendo lamba, 042, Nairobi","26","Arena Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1161,702,1917
-"271","awendo lamba, 042, Nairobi","27","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1934,1132,3303
-"271","awendo lamba, 042, Nairobi","28","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2710,1628,4509
-"271","awendo lamba, 042, Nairobi","29","Mayor Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2007,1272,3165
-"271","awendo lamba, 042, Nairobi","30","Kerwa","1/10/2017 - 1/12/2017, Every day, Daily Average",2035,1493,2773
-"271","awendo lamba, 042, Nairobi","32","Hospital Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2608,1630,4171
-"271","awendo lamba, 042, Nairobi","33","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1588,1063,2370
-"271","awendo lamba, 042, Nairobi","34","Neema Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3702,2646,5178
-"271","awendo lamba, 042, Nairobi","35","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3418,2346,4978
-"271","awendo lamba, 042, Nairobi","36","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1112,716,1725
-"271","awendo lamba, 042, Nairobi","37","Riflo Workshop","1/10/2017 - 1/12/2017, Every day, Daily Average",1476,902,2414
-"271","awendo lamba, 042, Nairobi","39","Kiambia-Gathanga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1807,1274,2561
-"271","awendo lamba, 042, Nairobi","40","Stage Mpya","1/10/2017 - 1/12/2017, Every day, Daily Average",2160,1256,3712
-"271","awendo lamba, 042, Nairobi","41","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3008,1821,4967
-"271","awendo lamba, 042, Nairobi","42","Eastern By Pass","1/10/2017 - 1/12/2017, Every day, Daily Average",2898,1881,4464
-"271","awendo lamba, 042, Nairobi","44","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2653,1681,4186
-"271","awendo lamba, 042, Nairobi","46","Magoko Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3368,2567,4418
-"271","awendo lamba, 042, Nairobi","48","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",684,387,1207
-"271","awendo lamba, 042, Nairobi","49","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",1734,1027,2927
-"271","awendo lamba, 042, Nairobi","51","First Freight Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1513,958,2387
-"271","awendo lamba, 042, Nairobi","52","300 Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2183,1381,3448
-"271","awendo lamba, 042, Nairobi","53","Bamburi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2704,1767,4136
-"271","awendo lamba, 042, Nairobi","54","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2715,1814,4062
-"271","awendo lamba, 042, Nairobi","56","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1619,981,2669
-"271","awendo lamba, 042, Nairobi","57","Getathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1505,1039,2178
-"271","awendo lamba, 042, Nairobi","58","Hekima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2048,1329,3155
-"271","awendo lamba, 042, Nairobi","59","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",805,461,1403
-"271","awendo lamba, 042, Nairobi","60","Mutungoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3231,2227,4687
-"271","awendo lamba, 042, Nairobi","61","Kinanda Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1664,1130,2449
-"271","awendo lamba, 042, Nairobi","62","Lucky Twin Plaza Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1915,1291,2838
-"271","awendo lamba, 042, Nairobi","63","Murishu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1651,1121,2431
-"271","awendo lamba, 042, Nairobi","64","Nziu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1507,833,2723
-"271","awendo lamba, 042, Nairobi","65","TRM Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1250,766,2038
-"271","awendo lamba, 042, Nairobi","66","Muramati Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1533,1011,2322
-"271","awendo lamba, 042, Nairobi","67","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1848,1184,2882
-"271","awendo lamba, 042, Nairobi","68","Millenium Krishna","1/10/2017 - 1/12/2017, Every day, Daily Average",870,524,1443
-"271","awendo lamba, 042, Nairobi","69","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",763,389,1496
-"271","awendo lamba, 042, Nairobi","70","Mbagathi Way","1/10/2017 - 1/12/2017, Every day, Daily Average",901,468,1733
-"271","awendo lamba, 042, Nairobi","71","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2123,1383,3258
-"271","awendo lamba, 042, Nairobi","72","Biashara St","1/10/2017 - 1/12/2017, Every day, Daily Average",1865,1289,2697
-"271","awendo lamba, 042, Nairobi","73","Beijing Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1807,1139,2866
-"271","awendo lamba, 042, Nairobi","76","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2804,1833,4287
-"271","awendo lamba, 042, Nairobi","77","Argwings Kodhek Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",737,424,1279
-"271","awendo lamba, 042, Nairobi","78","ARGWINGS KODHEK APPARTMENTS","1/10/2017 - 1/12/2017, Every day, Daily Average",1065,660,1716
-"271","awendo lamba, 042, Nairobi","79","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1991,1219,3251
-"271","awendo lamba, 042, Nairobi","80","Kihingo","1/10/2017 - 1/12/2017, Every day, Daily Average",2089,1484,2940
-"271","awendo lamba, 042, Nairobi","81","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2477,1529,4011
-"271","awendo lamba, 042, Nairobi","82","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1346,818,2213
-"271","awendo lamba, 042, Nairobi","83","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1544,1028,2317
-"271","awendo lamba, 042, Nairobi","86","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1777,1024,3082
-"271","awendo lamba, 042, Nairobi","87","Church Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1976,1298,3007
-"271","awendo lamba, 042, Nairobi","88","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1580,922,2705
-"271","awendo lamba, 042, Nairobi","90","0 General Mathenge Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",998,589,1689
-"271","awendo lamba, 042, Nairobi","91","Irungu Riika Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",509,233,1107
-"271","awendo lamba, 042, Nairobi","93","Mukinduri Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2079,1191,3628
-"271","awendo lamba, 042, Nairobi","94","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1804,1103,2950
-"271","awendo lamba, 042, Nairobi","95","Adminstration Block","1/10/2017 - 1/12/2017, Every day, Daily Average",847,443,1617
-"271","awendo lamba, 042, Nairobi","96","Grevillea Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1123,622,2025
-"271","awendo lamba, 042, Nairobi","97","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",3290,2409,4492
-"271","awendo lamba, 042, Nairobi","98","Tembo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2033,1356,3047
-"271","awendo lamba, 042, Nairobi","99","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2146,1378,3341
-"271","awendo lamba, 042, Nairobi","101","Fifth Avenue","1/10/2017 - 1/12/2017, Every day, Daily Average",2776,1835,4198
-"271","awendo lamba, 042, Nairobi","102","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1395,910,2137
-"271","awendo lamba, 042, Nairobi","103","Syokimau - Katani Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1763,1070,2903
-"271","awendo lamba, 042, Nairobi","106","Rhino Park Close","1/10/2017 - 1/12/2017, Every day, Daily Average",2600,1675,4035
-"271","awendo lamba, 042, Nairobi","107","Kabarnet Gardens","1/10/2017 - 1/12/2017, Every day, Daily Average",770,409,1446
-"271","awendo lamba, 042, Nairobi","108","Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1742,1156,2624
-"271","awendo lamba, 042, Nairobi","110","0 Waiyaki Way","1/10/2017 - 1/12/2017, Every day, Daily Average",814,453,1459
-"271","awendo lamba, 042, Nairobi","112","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1122,671,1875
-"271","awendo lamba, 042, Nairobi","113","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1518,997,2310
-"271","awendo lamba, 042, Nairobi","114","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1737,1170,2578
-"271","awendo lamba, 042, Nairobi","115","Syokimau Airport Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2280,1468,3539
-"271","awendo lamba, 042, Nairobi","116","Kayole Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2767,1680,4555
-"271","awendo lamba, 042, Nairobi","117","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2699,1789,4070
-"271","awendo lamba, 042, Nairobi","120","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2900,2029,4143
-"271","awendo lamba, 042, Nairobi","121","Kibichiko Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1770,1161,2697
-"271","awendo lamba, 042, Nairobi","123","Muigai Kenyatta Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2377,1644,3435
-"271","awendo lamba, 042, Nairobi","124","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2128,1393,3248
-"271","awendo lamba, 042, Nairobi","125","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3027,1996,4589
-"271","awendo lamba, 042, Nairobi","126","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3054,2163,4311
-"271","awendo lamba, 042, Nairobi","127","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1574,1120,2211
-"271","awendo lamba, 042, Nairobi","128","Langata Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1606,1022,2521
-"271","awendo lamba, 042, Nairobi","129","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2965,1926,4564
-"271","awendo lamba, 042, Nairobi","130","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1355,757,2423
-"271","awendo lamba, 042, Nairobi","131","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3074,2114,4468
-"271","awendo lamba, 042, Nairobi","132","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2663,1675,4233
-"271","awendo lamba, 042, Nairobi","133","P.O. Box 41185","1/10/2017 - 1/12/2017, Every day, Daily Average",447,166,1201
-"271","awendo lamba, 042, Nairobi","135","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2068,1383,3090
-"271","awendo lamba, 042, Nairobi","136","900 Edina Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",2623,1700,4046
-"271","awendo lamba, 042, Nairobi","137","Thika - Mang'u Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2928,2206,3885
-"271","awendo lamba, 042, Nairobi","138","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1722,1153,2570
-"271","awendo lamba, 042, Nairobi","139","Kiambu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1507,912,2487
-"271","awendo lamba, 042, Nairobi","140","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1973,1403,2773
-"271","awendo lamba, 042, Nairobi","141","Loiyangalani Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1256,785,2007
-"271","awendo lamba, 042, Nairobi","142","Brookside Grove","1/10/2017 - 1/12/2017, Every day, Daily Average",647,352,1188
-"271","awendo lamba, 042, Nairobi","143","Olkeri Laiser Hill Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2866,1844,4453
-"271","awendo lamba, 042, Nairobi","145","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1904,1203,3011
-"271","awendo lamba, 042, Nairobi","146","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2723,1736,4270
-"271","awendo lamba, 042, Nairobi","147","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2674,1711,4178
-"271","awendo lamba, 042, Nairobi","148","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3642,2394,5540
-"271","awendo lamba, 042, Nairobi","150","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2996,1938,4629
-"271","awendo lamba, 042, Nairobi","151","0 Riverside Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",423,196,911
-"271","awendo lamba, 042, Nairobi","152","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2470,1646,3704
-"271","awendo lamba, 042, Nairobi","153","0 Bendera Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1222,777,1919
-"271","awendo lamba, 042, Nairobi","154","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1705,1119,2597
-"271","awendo lamba, 042, Nairobi","155","C65","1/10/2017 - 1/12/2017, Every day, Daily Average",2035,1351,3064
-"271","awendo lamba, 042, Nairobi","157","0 Spring Valley Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1145,702,1866
-"271","awendo lamba, 042, Nairobi","158","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1400,876,2235
-"271","awendo lamba, 042, Nairobi","159","Zada Flat","1/10/2017 - 1/12/2017, Every day, Daily Average",2171,1243,3791
-"271","awendo lamba, 042, Nairobi","161","clay city masournets","1/10/2017 - 1/12/2017, Every day, Daily Average",1459,888,2396
-"271","awendo lamba, 042, Nairobi","164","Mumbi Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",1837,1100,3065
-"271","awendo lamba, 042, Nairobi","165","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",2338,1634,3343
-"271","awendo lamba, 042, Nairobi","166","Embakasi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1727,1004,2968
-"271","awendo lamba, 042, Nairobi","167","Kirawa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1673,1156,2419
-"271","awendo lamba, 042, Nairobi","168","Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2954,1981,4403
-"271","awendo lamba, 042, Nairobi","169","J35,Block 62/469 Kibera Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1133,681,1884
-"271","awendo lamba, 042, Nairobi","172","James Gichuru Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1168,704,1936
-"271","awendo lamba, 042, Nairobi","173","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3410,2584,4499
-"271","awendo lamba, 042, Nairobi","175","Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2159,1470,3170
-"271","awendo lamba, 042, Nairobi","176","Share Saifiyah Burhaniyah","1/10/2017 - 1/12/2017, Every day, Daily Average",1536,990,2382
-"271","awendo lamba, 042, Nairobi","177","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2310,1592,3350
-"271","awendo lamba, 042, Nairobi","178","Kugeria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1621,1061,2476
-"271","awendo lamba, 042, Nairobi","179","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2115,1588,2815
-"271","awendo lamba, 042, Nairobi","180","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2164,1266,3697
-"271","awendo lamba, 042, Nairobi","181","King'eero Shopping Centre Main Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1975,1454,2682
-"271","awendo lamba, 042, Nairobi","182","A 104","1/10/2017 - 1/12/2017, Every day, Daily Average",1790,1317,2431
-"271","awendo lamba, 042, Nairobi","183","Rd to Utawala Academy","1/10/2017 - 1/12/2017, Every day, Daily Average",2190,1334,3593
-"271","awendo lamba, 042, Nairobi","184","Miami Ct Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2684,1753,4107
-"271","awendo lamba, 042, Nairobi","185","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2583,1823,3659
-"271","awendo lamba, 042, Nairobi","186","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1945,1425,2654
-"271","awendo lamba, 042, Nairobi","187","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3589,2470,5213
-"271","awendo lamba, 042, Nairobi","188","Hinga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1028,627,1683
-"271","awendo lamba, 042, Nairobi","189","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2015,1284,3161
-"271","awendo lamba, 042, Nairobi","190","Kamandura - Mai Mahiu - Narok Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2516,1907,3318
-"271","awendo lamba, 042, Nairobi","191","Bogani E Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1710,1118,2613
-"271","awendo lamba, 042, Nairobi","192","Cargen House","1/10/2017 - 1/12/2017, Every day, Daily Average",264,75,922
-"271","awendo lamba, 042, Nairobi","193","Katani Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2117,1331,3365
-"271","awendo lamba, 042, Nairobi","194","James Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1940,1308,2876
-"271","awendo lamba, 042, Nairobi","198","Mae Properties Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1632,1038,2564
-"271","awendo lamba, 042, Nairobi","199","Catholic Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2639,1777,3918
-"271","awendo lamba, 042, Nairobi","200","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2622,1701,4040
-"271","awendo lamba, 042, Nairobi","201","Masimba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2565,1581,4160
-"271","awendo lamba, 042, Nairobi","202","Rose Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",528,286,972
-"271","awendo lamba, 042, Nairobi","203","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2498,1633,3820
-"271","awendo lamba, 042, Nairobi","204","Mukiri Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1252,805,1946
-"271","awendo lamba, 042, Nairobi","206","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2554,1887,3455
-"271","awendo lamba, 042, Nairobi","207","2nd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2009,1328,3039
-"271","awendo lamba, 042, Nairobi","208","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2815,1900,4168
-"271","awendo lamba, 042, Nairobi","209","City Chicken Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1966,1266,3051
-"271","awendo lamba, 042, Nairobi","210","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1565,882,2775
-"271","awendo lamba, 042, Nairobi","211","Kayole Spine Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2257,1342,3793
-"271","awendo lamba, 042, Nairobi","212","Lunga Lunga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1574,871,2844
-"271","awendo lamba, 042, Nairobi","213","Ruiru Kamiti Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1720,1163,2542
-"271","awendo lamba, 042, Nairobi","214","Lane 26","1/10/2017 - 1/12/2017, Every day, Daily Average",2026,1389,2954
-"271","awendo lamba, 042, Nairobi","218","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2518,1812,3497
-"271","awendo lamba, 042, Nairobi","220","Dagoretti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2825,1811,4406
-"271","awendo lamba, 042, Nairobi","221","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3100,2254,4262
-"271","awendo lamba, 042, Nairobi","222","Kikuyu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2695,1776,4088
-"271","awendo lamba, 042, Nairobi","224","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1824,1057,3146
-"271","awendo lamba, 042, Nairobi","225","Woodvalle Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1280,765,2139
-"271","awendo lamba, 042, Nairobi","227","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2310,1581,3373
-"271","awendo lamba, 042, Nairobi","228","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2387,1482,3842
-"271","awendo lamba, 042, Nairobi","229","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",938,497,1767
-"271","awendo lamba, 042, Nairobi","230","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2736,1706,4386
-"271","awendo lamba, 042, Nairobi","231","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1858,960,3593
-"271","awendo lamba, 042, Nairobi","232","Imani Project","1/10/2017 - 1/12/2017, Every day, Daily Average",2171,1294,3641
-"271","awendo lamba, 042, Nairobi","233","Kerarapon Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",2322,1500,3593
-"271","awendo lamba, 042, Nairobi","234","Lower Kabete","1/10/2017 - 1/12/2017, Every day, Daily Average",1774,1297,2424
-"271","awendo lamba, 042, Nairobi","235","A2","1/10/2017 - 1/12/2017, Every day, Daily Average",2331,1637,3317
-"271","awendo lamba, 042, Nairobi","237","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1839,1227,2754
-"271","awendo lamba, 042, Nairobi","238","School Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3355,2206,5100
-"271","awendo lamba, 042, Nairobi","239","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1921,1249,2954
-"271","awendo lamba, 042, Nairobi","240","Karen Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2336,1494,3651
-"271","awendo lamba, 042, Nairobi","241","Riara Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1220,735,2023
-"271","awendo lamba, 042, Nairobi","242","200 Kyuna Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",847,481,1488
-"271","awendo lamba, 042, Nairobi","243","E Africa Motorsports Tracks","1/10/2017 - 1/12/2017, Every day, Daily Average",1649,950,2859
-"271","awendo lamba, 042, Nairobi","244","Wangapala Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",943,565,1571
-"271","awendo lamba, 042, Nairobi","245","Ole Shapara Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",837,413,1693
-"271","awendo lamba, 042, Nairobi","246","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1242,716,2152
-"271","awendo lamba, 042, Nairobi","247","Kabiria Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1902,1302,2777
-"271","awendo lamba, 042, Nairobi","248","Pilipili Way","1/10/2017 - 1/12/2017, Every day, Daily Average",683,385,1208
-"271","awendo lamba, 042, Nairobi","249","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2187,1457,3281
-"271","awendo lamba, 042, Nairobi","251","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2212,1532,3193
-"271","awendo lamba, 042, Nairobi","252","Ol Leleshwa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1974,1185,3287
-"271","awendo lamba, 042, Nairobi","253","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2590,1932,3471
-"271","awendo lamba, 042, Nairobi","254","Banjui House","1/10/2017 - 1/12/2017, Every day, Daily Average",2381,1369,4139
-"271","awendo lamba, 042, Nairobi","255","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2708,1966,3728
-"271","awendo lamba, 042, Nairobi","256","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",613,329,1141
-"271","awendo lamba, 042, Nairobi","257","Mukunga","1/10/2017 - 1/12/2017, Every day, Daily Average",928,511,1683
-"271","awendo lamba, 042, Nairobi","258","0 Muthithi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",326,139,760
-"271","awendo lamba, 042, Nairobi","259","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2957,1837,4758
-"271","awendo lamba, 042, Nairobi","262","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2968,1962,4487
-"271","awendo lamba, 042, Nairobi","263","Nairobi - Namanga","1/10/2017 - 1/12/2017, Every day, Daily Average",2322,1579,3413
-"271","awendo lamba, 042, Nairobi","264","Gigiri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1247,806,1928
-"271","awendo lamba, 042, Nairobi","266","Kandara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",705,394,1261
-"271","awendo lamba, 042, Nairobi","268","Church Road","1/10/2017 - 1/12/2017, Every day, Daily Average",3015,1946,4669
-"271","awendo lamba, 042, Nairobi","269","Magadi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1891,1179,3030
-"271","awendo lamba, 042, Nairobi","271","GTZ Processional Way","1/10/2017 - 1/12/2017, Every day, Daily Average",503,130,1939
-"271","awendo lamba, 042, Nairobi","272","Miotoni Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2054,1243,3391
-"271","awendo lamba, 042, Nairobi","273","Thigiri Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1459,902,2357
-"271","awendo lamba, 042, Nairobi","275","Kikenni Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2157,1494,3114
-"271","awendo lamba, 042, Nairobi","276","Garden Estate Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1038,615,1750
-"271","awendo lamba, 042, Nairobi","277","Johari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2115,1259,3550
-"271","awendo lamba, 042, Nairobi","278","Farasi Lane","1/10/2017 - 1/12/2017, Every day, Daily Average",1399,949,2061
-"271","awendo lamba, 042, Nairobi","279","Ngong Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1385,827,2317
-"271","awendo lamba, 042, Nairobi","280","Ronix Gas Supplies","1/10/2017 - 1/12/2017, Every day, Daily Average",2002,1176,3406
-"271","awendo lamba, 042, Nairobi","281","Gatundu Cres","1/10/2017 - 1/12/2017, Every day, Daily Average",891,514,1542
-"271","awendo lamba, 042, Nairobi","282","0 Muthaiga Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",844,493,1441
-"271","awendo lamba, 042, Nairobi","283","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2597,1735,3885
-"271","awendo lamba, 042, Nairobi","284","Foot Path","1/10/2017 - 1/12/2017, Every day, Daily Average",1807,1262,2587
-"271","awendo lamba, 042, Nairobi","285","Garissa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",3053,2308,4037
-"271","awendo lamba, 042, Nairobi","286","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2671,1713,4162
-"271","awendo lamba, 042, Nairobi","287","City Clock","1/10/2017 - 1/12/2017, Every day, Daily Average",799,379,1681
-"271","awendo lamba, 042, Nairobi","288","Old Mombasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1334,772,2303
-"271","awendo lamba, 042, Nairobi","289","USIU Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1481,947,2315
-"271","awendo lamba, 042, Nairobi","290","Ngong Forest Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2086,1247,3489
-"271","awendo lamba, 042, Nairobi","291","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1296,762,2201
-"271","awendo lamba, 042, Nairobi","292","Loneview Access Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1765,1084,2873
-"271","awendo lamba, 042, Nairobi","293","Lake View Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1314,870,1983
-"271","awendo lamba, 042, Nairobi","294","Pofu Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1899,1271,2835
-"271","awendo lamba, 042, Nairobi","295","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2427,1648,3574
-"271","awendo lamba, 042, Nairobi","297","Ndemi Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",963,562,1648
-"271","awendo lamba, 042, Nairobi","298","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2302,1650,3210
-"271","awendo lamba, 042, Nairobi","300","Helena Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2149,1383,3337
-"271","awendo lamba, 042, Nairobi","301","ELSEK ELSEK Nairobi Show House Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2172,1376,3427
-"271","awendo lamba, 042, Nairobi","302","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2407,1814,3193
-"271","awendo lamba, 042, Nairobi","303","400 Muhuri Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2664,1637,4333
-"271","awendo lamba, 042, Nairobi","304","Embu - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2107,1412,3142
-"271","awendo lamba, 042, Nairobi","305","Amani","1/10/2017 - 1/12/2017, Every day, Daily Average",1816,1157,2848
-"271","awendo lamba, 042, Nairobi","306","Mandela Gate","1/10/2017 - 1/12/2017, Every day, Daily Average",1868,1251,2788
-"271","awendo lamba, 042, Nairobi","308","500 Kwarara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2340,1551,3529
-"271","awendo lamba, 042, Nairobi","309","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1713,1037,2828
-"271","awendo lamba, 042, Nairobi","311","Kangundo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2741,1722,4360
-"271","awendo lamba, 042, Nairobi","312","100 Kamiti Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1439,864,2394
-"271","awendo lamba, 042, Nairobi","313","Mumwe Drive","1/10/2017 - 1/12/2017, Every day, Daily Average",1829,1299,2574
-"271","awendo lamba, 042, Nairobi","314","Mutarakwa Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2567,1979,3329
-"271","awendo lamba, 042, Nairobi","316","Prestige Apartments","1/10/2017 - 1/12/2017, Every day, Daily Average",1701,962,3005
-"271","awendo lamba, 042, Nairobi","317","Fifth St","1/10/2017 - 1/12/2017, Every day, Daily Average",1298,773,2177
-"271","awendo lamba, 042, Nairobi","319","Banana Raini Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2201,1609,3010
-"271","awendo lamba, 042, Nairobi","320","Northern Bypass Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2417,1631,3580
-"271","awendo lamba, 042, Nairobi","321","Fiesta-Bypass Link","1/10/2017 - 1/12/2017, Every day, Daily Average",1690,1150,2482
-"271","awendo lamba, 042, Nairobi","322","Wanyee Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1532,907,2586
-"271","awendo lamba, 042, Nairobi","324","30700 Naivasha Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1171,739,1855
-"271","awendo lamba, 042, Nairobi","325","Community Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2506,1604,3914
-"271","awendo lamba, 042, Nairobi","327","Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1836,1074,3138
-"271","awendo lamba, 042, Nairobi","328","Sigona Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",1706,1227,2371
-"271","awendo lamba, 042, Nairobi","329","1800 Mpaka Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",551,279,1085
-"271","awendo lamba, 042, Nairobi","330","Kanyariri-Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1659,1111,2476
-"271","awendo lamba, 042, Nairobi","331","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2895,1988,4214
-"271","awendo lamba, 042, Nairobi","332","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2258,1483,3436
-"271","awendo lamba, 042, Nairobi","333","Nyasa Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1250,661,2360
-"271","awendo lamba, 042, Nairobi","334","Southern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",1216,692,2136
-"271","awendo lamba, 042, Nairobi","335","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2229,1519,3269
-"271","awendo lamba, 042, Nairobi","336","0 Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2574,1733,3821
-"271","awendo lamba, 042, Nairobi","337","0 Milima Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2705,1783,4103
-"271","awendo lamba, 042, Nairobi","338","Gatundu-Juja Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2466,1713,3549
-"271","awendo lamba, 042, Nairobi","340","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",1884,1229,2887
-"271","awendo lamba, 042, Nairobi","341","Hillcrest Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",2240,1317,3808
-"271","awendo lamba, 042, Nairobi","343","Karura Munyaka Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2712,1590,4623
-"271","awendo lamba, 042, Nairobi","344","Kibiku Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2198,1342,3597
-"271","awendo lamba, 042, Nairobi","346","Kikuyu - Nderi Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1931,1279,2914
-"271","awendo lamba, 042, Nairobi","347","Ghana Cl","1/10/2017 - 1/12/2017, Every day, Daily Average",1626,1038,2545
-"271","awendo lamba, 042, Nairobi","348","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2790,2090,3724
-"271","awendo lamba, 042, Nairobi","349","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2532,1839,3485
-"271","awendo lamba, 042, Nairobi","350","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2236,1707,2928
-"271","awendo lamba, 042, Nairobi","351","Airport N Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1183,662,2112
-"271","awendo lamba, 042, Nairobi","352","Ngong View Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2532,1790,3581
-"271","awendo lamba, 042, Nairobi","353","Gitaru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2469,1568,3887
-"271","awendo lamba, 042, Nairobi","354","Kahawa Flyover","1/10/2017 - 1/12/2017, Every day, Daily Average",1566,987,2484
-"271","awendo lamba, 042, Nairobi","355","Kapenguria","1/10/2017 - 1/12/2017, Every day, Daily Average",1669,1182,2356
-"271","awendo lamba, 042, Nairobi","357","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2669,1744,4083
-"271","awendo lamba, 042, Nairobi","358","Baba Dogo Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1578,1022,2436
-"271","awendo lamba, 042, Nairobi","359","Masai W Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2616,1685,4060
-"271","awendo lamba, 042, Nairobi","360","Mbagathi Ridge","1/10/2017 - 1/12/2017, Every day, Daily Average",2657,1777,3971
-"271","awendo lamba, 042, Nairobi","362","Enterprise Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1040,562,1921
-"271","awendo lamba, 042, Nairobi","363","Kahawa Sukari Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",1972,1311,2966
-"271","awendo lamba, 042, Nairobi","364","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2643,1814,3850
-"271","awendo lamba, 042, Nairobi","366","Red Hill Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1644,1129,2392
-"271","awendo lamba, 042, Nairobi","367","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1700,1024,2821
-"271","awendo lamba, 042, Nairobi","368","Tara Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1007,613,1651
-"271","awendo lamba, 042, Nairobi","369","Green Ln","1/10/2017 - 1/12/2017, Every day, Daily Average",2367,1623,3451
-"271","awendo lamba, 042, Nairobi","370","Emmaus Street,","1/10/2017 - 1/12/2017, Every day, Daily Average",2516,1611,3928
-"271","awendo lamba, 042, Nairobi","371","Racing Circuit","1/10/2017 - 1/12/2017, Every day, Daily Average",1084,584,2011
-"271","awendo lamba, 042, Nairobi","372","Musa Gitau Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",924,532,1604
-"271","awendo lamba, 042, Nairobi","374","Namanga Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2746,1900,3967
-"271","awendo lamba, 042, Nairobi","376","Gathuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1633,1055,2527
-"271","awendo lamba, 042, Nairobi","377","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2216,1421,3454
-"271","awendo lamba, 042, Nairobi","378","Aerodrome Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",489,220,1082
-"271","awendo lamba, 042, Nairobi","379","Kamukunji Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1068,536,2125
-"271","awendo lamba, 042, Nairobi","380","Mombasa Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1610,969,2673
-"271","awendo lamba, 042, Nairobi","381","Eldoret-Malaba Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2017,1478,2751
-"271","awendo lamba, 042, Nairobi","383","Muungano House","1/10/2017 - 1/12/2017, Every day, Daily Average",331,147,742
-"271","awendo lamba, 042, Nairobi","385","Laxmi Estate","1/10/2017 - 1/12/2017, Every day, Daily Average",1359,859,2149
-"271","awendo lamba, 042, Nairobi","386","Ablution Block","1/10/2017 - 1/12/2017, Every day, Daily Average",689,339,1397
-"271","awendo lamba, 042, Nairobi","387","3rd Sunrise Ave","1/10/2017 - 1/12/2017, Every day, Daily Average",2435,1573,3768
-"271","awendo lamba, 042, Nairobi","388","0 Moi Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",2083,1270,3416
-"271","awendo lamba, 042, Nairobi","389","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2729,2030,3667
-"271","awendo lamba, 042, Nairobi","390","100-188 Thego Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",1122,651,1933
-"271","awendo lamba, 042, Nairobi","391","Meru - Nairobi Hwy","1/10/2017 - 1/12/2017, Every day, Daily Average",2137,1413,3230
-"271","awendo lamba, 042, Nairobi","392","Coffee Garden Dr","1/10/2017 - 1/12/2017, Every day, Daily Average",940,552,1600
-"271","awendo lamba, 042, Nairobi","394","Limuru Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2440,1697,3508
-"271","awendo lamba, 042, Nairobi","395","EPZ Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",2925,2223,3848
-"271","awendo lamba, 042, Nairobi","396","Unnamed Road","1/10/2017 - 1/12/2017, Every day, Daily Average",2165,1297,3612
-"271","awendo lamba, 042, Nairobi","397","Mahavir Court","1/10/2017 - 1/12/2017, Every day, Daily Average",635,341,1179
-"271","awendo lamba, 042, Nairobi","398","Kihara- Gacii- Karura Road","1/10/2017 - 1/12/2017, Every day, Daily Average",1924,1410,2624
-"271","awendo lamba, 042, Nairobi","399","Eastern Bypass","1/10/2017 - 1/12/2017, Every day, Daily Average",2587,1619,4132
-"271","awendo lamba, 042, Nairobi","400","Outer Ring Rd","1/10/2017 - 1/12/2017, Every day, Daily Average",931,539,1606
+"Date","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Daily Mean Travel Time (Seconds)","Daily Range - Lower Bound Travel Time (Seconds)","Daily Range - Upper Bound Travel Time (Seconds)","AM Mean Travel Time (Seconds)","AM Range - Lower Bound Travel Time (Seconds)","AM Range - Upper Bound Travel Time (Seconds)","PM Mean Travel Time (Seconds)","PM Range - Lower Bound Travel Time (Seconds)","PM Range - Upper Bound Travel Time (Seconds)","Midday Mean Travel Time (Seconds)","Midday Range - Lower Bound Travel Time (Seconds)","Midday Range - Upper Bound Travel Time (Seconds)","Evening Mean Travel Time (Seconds)","Evening Range - Lower Bound Travel Time (Seconds)","Evening Range - Upper Bound Travel Time (Seconds)","Early Morning Mean Travel Time (Seconds)","Early Morning Range - Lower Bound Travel Time (Seconds)","Early Morning Range - Upper Bound Travel Time (Seconds)"
+"10/01/2017","81","Landmawe","65","City Square",196,100,386,150,81,276,239,127,450,264,135,517,161,88,296,133,75,237
+"10/02/2017","81","Landmawe","65","City Square",419,169,1038,593,297,1181,671,339,1329,426,189,960,195,100,379,267,108,656
+"10/03/2017","81","Landmawe","65","City Square",657,263,1640,713,355,1432,1006,515,1966,748,409,1366,329,131,828,329,130,831
+"10/04/2017","81","Landmawe","65","City Square",606,242,1516,665,333,1328,917,519,1620,766,431,1359,238,111,510,208,97,444
+"10/05/2017","81","Landmawe","65","City Square",674,275,1654,643,347,1194,997,497,1998,832,466,1485,393,152,1016,266,115,618
+"10/06/2017","81","Landmawe","65","City Square",418,176,992,668,332,1346,590,277,1255,491,249,969,217,106,445,231,103,517
+"10/07/2017","81","Landmawe","65","City Square",333,134,823,360,168,768,210,116,382,585,299,1145,222,100,494,189,91,391
+"10/08/2017","81","Landmawe","65","City Square",195,100,380,186,88,393,173,97,308,240,132,436,171,91,323,172,85,351
+"10/09/2017","81","Landmawe","65","City Square",419,175,1000,582,300,1129,552,263,1158,439,209,921,210,97,453,310,127,757
+"10/10/2017","81","Landmawe","65","City Square",632,247,1618,658,335,1295,1121,613,2051,761,415,1394,265,112,626,209,99,440
+"10/11/2017","81","Landmawe","65","City Square",488,197,1205,533,266,1069,748,328,1706,407,196,844,489,177,1348,283,109,733
+"10/12/2017","81","Landmawe","65","City Square",633,251,1595,659,339,1281,1144,575,2277,773,405,1476,337,147,774,210,94,469
+"10/13/2017","81","Landmawe","65","City Square",387,157,952,636,321,1258,484,216,1087,416,181,954,244,109,544,282,118,674
+"10/14/2017","81","Landmawe","65","City Square",308,136,697,322,165,629,249,134,462,484,252,930,178,95,336,175,81,378
+"10/15/2017","81","Landmawe","65","City Square",186,96,361,127,79,206,155,95,252,234,122,451,185,94,364,154,79,299
+"10/16/2017","81","Landmawe","65","City Square",408,169,985,639,312,1309,745,342,1620,342,174,675,196,92,416,227,108,479
+"10/17/2017","81","Landmawe","65","City Square",532,211,1344,575,278,1191,1002,518,1936,569,303,1067,204,96,433,258,88,754
+"10/18/2017","81","Landmawe","65","City Square",556,222,1396,670,354,1269,1033,483,2210,622,353,1096,195,95,399,185,89,386
+"10/19/2017","81","Landmawe","65","City Square",543,219,1346,549,294,1026,904,466,1756,696,383,1265,313,132,743,164,86,314
+"10/20/2017","81","Landmawe","65","City Square",181,96,343,158,91,273,153,93,250,225,116,439,170,93,310,167,81,341
+"10/21/2017","81","Landmawe","65","City Square",289,126,662,263,128,539,228,108,477,428,231,790,180,90,361,198,84,465
+"10/22/2017","81","Landmawe","65","City Square",176,94,330,142,81,248,170,94,304,215,115,403,155,88,273,168,80,349
+"10/23/2017","81","Landmawe","65","City Square",586,234,1467,588,297,1163,1039,558,1935,703,400,1236,271,114,640,198,93,420
+"10/24/2017","81","Landmawe","65","City Square",578,223,1499,820,341,1975,662,348,1260,746,340,1633,295,130,667,220,95,506
+"10/25/2017","81","Landmawe","65","City Square",188,97,364,190,97,368,216,109,429,190,101,358,170,94,308,196,91,420
+"10/26/2017","81","Landmawe","65","City Square",173,86,345,119,76,187,128,85,192,164,85,318,203,90,456,197,90,433
+"10/27/2017","81","Landmawe","65","City Square",211,100,446,242,114,514,213,103,441,248,114,536,135,77,239,211,90,494
+"10/28/2017","81","Landmawe","65","City Square",177,96,327,153,96,242,157,91,272,213,112,403,154,88,269,161,82,316
+"10/29/2017","81","Landmawe","65","City Square",163,87,304,134,73,245,145,89,236,184,97,347,143,81,254,193,88,425
+"10/30/2017","81","Landmawe","65","City Square",492,207,1169,529,301,932,629,298,1326,621,323,1196,197,96,404,205,96,436
+"10/31/2017","81","Landmawe","65","City Square",446,194,1020,558,293,1062,579,306,1097,500,263,950,207,98,437,249,106,587
+"11/01/2017","81","Landmawe","65","City Square",618,239,1597,639,324,1260,1036,572,1877,720,387,1337,266,112,632,276,111,682
+"11/02/2017","81","Landmawe","65","City Square",633,242,1652,558,270,1153,1057,579,1930,823,461,1469,262,110,623,238,106,534
+"11/03/2017","81","Landmawe","65","City Square",685,267,1761,694,394,1222,1210,633,2314,820,437,1535,364,146,908,229,103,505
+"11/04/2017","81","Landmawe","65","City Square",395,162,959,403,179,904,488,226,1053,592,292,1199,256,114,570,163,86,308
+"11/05/2017","81","Landmawe","65","City Square",206,102,415,161,85,305,202,109,375,231,119,451,217,107,441,173,83,364
+"11/06/2017","81","Landmawe","65","City Square",579,231,1449,643,302,1369,1049,514,2139,629,351,1126,291,119,708,273,115,645
+"11/07/2017","81","Landmawe","65","City Square",645,263,1581,823,390,1736,1057,595,1878,681,385,1206,372,139,995,213,104,437
+"11/08/2017","81","Landmawe","65","City Square",625,240,1625,692,349,1369,1076,575,2012,728,383,1385,256,109,601,235,103,535
+"11/09/2017","81","Landmawe","65","City Square",611,242,1544,809,404,1619,874,450,1696,728,406,1304,266,115,617,189,93,382
+"11/10/2017","81","Landmawe","65","City Square",742,266,2072,1069,498,2295,1260,645,2461,873,425,1790,428,158,1154,311,118,821
+"11/11/2017","81","Landmawe","65","City Square",386,156,951,339,174,660,313,160,612,667,320,1390,233,110,495,237,101,554
+"11/12/2017","81","Landmawe","65","City Square",227,105,488,201,94,428,240,122,470,314,152,649,183,91,367,158,78,320
+"11/13/2017","81","Landmawe","65","City Square",605,235,1558,575,264,1253,1051,530,2084,701,380,1291,337,131,861,229,104,502
+"11/14/2017","81","Landmawe","65","City Square",681,263,1760,837,418,1677,845,470,1520,864,449,1662,304,122,754,213,103,439
+"11/15/2017","81","Landmawe","65","City Square",672,255,1764,655,323,1325,1014,587,1750,886,477,1645,238,106,534,323,130,801
+"11/16/2017","81","Landmawe","65","City Square",652,256,1661,705,364,1365,828,421,1628,855,433,1686,352,140,883,335,133,841
+"11/17/2017","81","Landmawe","65","City Square",392,155,987,644,344,1207,584,283,1207,506,233,1099,212,99,450,245,106,567
+"11/18/2017","81","Landmawe","65","City Square",354,148,847,412,183,929,305,147,632,573,299,1098,230,114,462,181,86,379
+"11/19/2017","81","Landmawe","65","City Square",226,107,477,171,86,342,280,154,510,228,113,457,196,94,404,253,105,610
+"11/20/2017","81","Landmawe","65","City Square",329,133,815,658,353,1229,331,156,700,294,128,671,185,90,379,225,99,509
+"11/21/2017","81","Landmawe","65","City Square",663,245,1797,681,364,1275,1274,722,2246,771,399,1488,304,116,800,279,117,664
+"11/22/2017","81","Landmawe","65","City Square",668,261,1705,723,348,1502,958,468,1961,815,427,1555,377,146,970,203,93,445
+"11/23/2017","81","Landmawe","65","City Square",606,240,1527,621,338,1141,927,488,1762,722,378,1379,353,136,916,198,94,416
+"11/24/2017","81","Landmawe","65","City Square",691,287,1660,644,309,1342,1034,519,2058,887,434,1814,485,217,1086,245,108,554
+"11/25/2017","81","Landmawe","65","City Square",402,171,946,312,149,650,513,298,883,638,353,1150,320,149,688,209,93,470
+"11/26/2017","81","Landmawe","65","City Square",283,125,640,,,,211,106,420,439,216,891,154,84,284,560,335,938
+"11/27/2017","81","Landmawe","65","City Square",598,227,1572,664,281,1567,810,361,1816,784,386,1592,309,130,734,216,101,461
+"11/28/2017","81","Landmawe","65","City Square",190,87,414,199,92,431,169,86,332,238,93,604,174,85,356,164,79,339
+"11/29/2017","81","Landmawe","65","City Square",663,244,1802,745,339,1635,1019,535,1939,797,387,1641,417,146,1190,191,87,416
+"11/30/2017","81","Landmawe","65","City Square",754,271,2093,788,334,1857,1063,503,2248,898,402,2005,567,189,1695,234,102,535
+"12/01/2017","81","Landmawe","65","City Square",655,242,1775,678,337,1364,1040,477,2263,944,468,1902,419,164,1064,197,95,409
