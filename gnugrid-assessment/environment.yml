@@ -1,0 +1,46 @@
+#
+name: regression
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - ipywidgets
+  - nodejs
+  - nb_conda_kernels
+  - nb_conda
+  - nbconvert
+  - nbformat
+  - nbresuse
+  - nbsphinx
+  - nbval
+  - nbdime
+  - nbclient
+  - nbconvert
+  - nbformat
+  - nbresuse
+  - pip
+  - pip:
+      - mlflow
+      - xgboost
+      - lightgbm
+      - catboost
+      - shap
+      - eli5
+      - optuna
+      - scikit-optimize
+      - scikit-plot
+      - pydotplus
+      - graphviz
+      - dtreeviz
+      - pdpbox
+      - lime
+      - mlxtend
+      - imbalanced-learn
