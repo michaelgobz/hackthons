@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mPbi+TzpeoS7alFQBydAwUrwy34P1lMMUYqHkD8KhL8=",
+  "Source": "server-hotchocolate",
+  "BasePath": "_content/server-hotchocolate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
