@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O+YT1flHb33OjtwhFGId8+c40BL6YDtHJ2kYwPKopRM=",
+  "Source": "logit-api",
+  "BasePath": "_content/logit-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
