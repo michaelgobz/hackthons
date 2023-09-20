@@ -1,5 +1,5 @@
 #
-name: regression
+name: hackathons
 channels:
   - defaults
   - conda-forge
@@ -13,6 +13,13 @@ dependencies:
   - jupyter
   - jupyterlab
   - ipywidgets
+  - geopandas
+  - geopy
+  - geocoder
+  - geoplot
+  - geoviews
+  - hvplot
+  - holoviews
   - nodejs
   - nb_conda_kernels
   - nb_conda
