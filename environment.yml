@@ -3,6 +3,7 @@ name: hackathons
 channels:
   - defaults
   - conda-forge
+  - pypi
 dependencies:
   - python=3.8
   - numpy
